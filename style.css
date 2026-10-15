@@ -1,0 +1,49 @@
+ul {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px ;
+    overflow: hidden;
+    background-color: #b74f4f;
+  }
+ 
+  li {
+    float: center;
+  }
+ 
+  li a {
+    display: block;
+    color: rgb(253, 251, 251);
+    text-align: center;
+    padding: 10px;
+    text-decoration: none;
+  }
+ 
+  li a:hover {
+    background-color: purple;
+  }
+  h1 {
+    text-align: center;
+    
+  }
+  p {
+    margin: 15px;
+  }
+  h2 {
+    padding: 15px;
+    color: aqua;
+    background-color: blueviolet;
+  }
+  label {
+    background-color: blue;
+    color: aliceblue;
+  }
+  input {
+    background-color: blanchedalmond;
+  }
+  textarea {
+    background-color: bisque;
+  }
+input[type="submit"]:hover {
+    background-color: #a900ec;
+    color: rgb(230, 0, 0);
+}
